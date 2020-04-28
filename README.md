@@ -5,4 +5,10 @@ To learn about github, this is the first repository created from the guide.
 Numpy, Pandas, Matplot, Sklearn, Seaborn
 
 ## Education Background
-I am a master's student in chemical engineering. I am interested in data science and want to shift to this field.
+* MSc in Chemical Engineering                                                                               Sep 2017 – May 2020
+  University of Alberta, Edmonton AB
+  
+* BSc in Chemistry                                                                                          Sep 2013 - Jun 2017
+  Renmin University of China, Beijing CN
+
+
