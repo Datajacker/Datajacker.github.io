@@ -1,4 +1,4 @@
-# hello-world
+# Datajacker
 To learn about github, this is the first repository created from the guide.
 
 ## Data Science techniques
@@ -14,6 +14,10 @@ To learn about github, this is the first repository created from the guide.
 * API’s  /n
   https://www.dataquest.io/blog/python-api-tutorial/
  
+## Data Science Books
+* Hands-on Machine Learning with Scikit-Learn, Keras, and TenseFlow
+
+* An Introduction to Statistical Learning
 
 ## Education Background
 * MSc in Chemical Engineering                                                                               Sep 2017 – May 2020
