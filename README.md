@@ -25,5 +25,11 @@ To learn about github, this is the first repository created from the guide.
   
 * BSc in Chemistry                                                                                          Sep 2013 - Jun 2017
   Renmin University of China, Beijing CN
+  
+## Projects
+* Introduction to data science /n
+  https://github.com/Datajacker/Introduction-to-data-science
+* DataCamp Data Science track
+  https://github.com/Datajacker/Datacamp-data-science
 
 
