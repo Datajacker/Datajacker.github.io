@@ -31,5 +31,12 @@ To learn about github, this is the first repository created from the guide.
   https://github.com/Datajacker/Introduction-to-data-science
 * DataCamp Data Science track
   https://github.com/Datajacker/Datacamp-data-science
+  
+## Data Science links
+### How to build a data science project from scratch
+https://medium.com/free-code-camp/how-to-build-a-data-science-project-from-scratch-dc4f096a62a1
+
+### Automated Feature Engineering in Python
+https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219
 
 
