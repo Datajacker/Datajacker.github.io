@@ -39,4 +39,7 @@ https://medium.com/free-code-camp/how-to-build-a-data-science-project-from-scrat
 ### Automated Feature Engineering in Python
 https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219
 
+### Linear Regression on Boston Housing Dataset
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
+
 
