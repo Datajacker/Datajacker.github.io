@@ -42,4 +42,10 @@ https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc
 ### Linear Regression on Boston Housing Dataset
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
 
+### Linear Regression using Python
+https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
+### Six Recommendations for Aspiring Data Scientists
+https://towardsdatascience.com/six-recommendations-for-aspiring-data-scientists-93d12aeb9b9
+### Why you’re not a job-ready data scientist (yet)
+https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012
 
