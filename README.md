@@ -48,4 +48,6 @@ https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
 https://towardsdatascience.com/six-recommendations-for-aspiring-data-scientists-93d12aeb9b9
 ### Why you’re not a job-ready data scientist (yet)
 https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012
+### The 10 Statistical Techniques Data Scientists Need to Master
+https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
 
