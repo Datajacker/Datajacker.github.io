@@ -50,6 +50,8 @@ https://towardsdatascience.com/six-recommendations-for-aspiring-data-scientists-
 https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d73f15012
 ### The 10 Statistical Techniques Data Scientists Need to Master
 https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
+### Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 
 ## Programming projects
 ### 10 Great Programming Projects to Improve Your Resume and Learn to Program
@@ -60,3 +62,5 @@ https://levelup.gitconnected.com/10-great-programming-projects-to-improve-your-r
 https://towardsdatascience.com/red-flags-in-data-science-interviews-4f492bbed4c4
 ### Five Interview Questions to Predict a Good Data Scientist
 https://mail.google.com/mail/u/0/?tab=rm&ogbl#starred/FMfcgxwHNCwJpxnPbwVLpbwDzlNQJgbV
+### Five books every data scientist should read that are not about data science
+https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f
