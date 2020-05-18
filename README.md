@@ -52,6 +52,8 @@ https://towardsdatascience.com/why-youre-not-a-job-ready-data-scientist-yet-1a0d
 https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7
 ### Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
 https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+### Mathematics for Data Science
+https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
 
 ## Programming projects
 ### 10 Great Programming Projects to Improve Your Resume and Learn to Program
