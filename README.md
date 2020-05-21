@@ -68,3 +68,5 @@ https://mail.google.com/mail/u/0/?tab=rm&ogbl#starred/FMfcgxwHNCwJpxnPbwVLpbwDzl
 https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f
 ### The Blunt Guide to Mathematically Rigorous Machine Learning
 https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b
+### Data Science for Startups: Introduction
+https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
