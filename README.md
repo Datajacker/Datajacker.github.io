@@ -70,3 +70,5 @@ https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-
 https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b
 ### Data Science for Startups: Introduction
 https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
+### Getting started with Spark & batch processing frameworks
+https://blog.insightdatascience.com/getting-started-with-spark-and-batch-processing-frameworks-d9f80c146e13
