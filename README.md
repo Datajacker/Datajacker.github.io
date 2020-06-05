@@ -54,6 +54,8 @@ https://medium.com/cracking-the-data-science-interview/the-10-statistical-techni
 https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 ### Mathematics for Data Science
 https://towardsdatascience.com/mathematics-for-data-science-e53939ee8306
+### 5 Fabulous Python Packages For Data-Science Nobody Knows About
+https://towardsdatascience.com/5-fabulous-python-packages-for-data-science-nobody-knows-about-9fa192f312e4
 
 ## Programming projects
 ### 10 Great Programming Projects to Improve Your Resume and Learn to Program
