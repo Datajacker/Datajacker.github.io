@@ -19,6 +19,8 @@ To learn about github, this is the first repository created from the guide.
 
 * An Introduction to Statistical Learning
 
+* https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/
+
 ## Education Background
 * MSc in Chemical Engineering                                                                               Sep 2017 – May 2020
   University of Alberta, Edmonton AB
