@@ -21,6 +21,9 @@ To learn about github, this is the first repository created from the guide.
 
 * https://www.reddit.com/r/MachineLearning/comments/fdw0ax/d_advanced_courses_update/
 
+## Machine learning Papers
+* https://vsitzmann.github.io/siren/
+
 ## Education Background
 * MSc in Chemical Engineering                                                                               Sep 2017 – May 2020
   University of Alberta, Edmonton AB
