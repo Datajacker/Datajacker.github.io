@@ -14,6 +14,10 @@ To learn about github, this is the first repository created from the guide.
 * API’s  /n
   https://www.dataquest.io/blog/python-api-tutorial/
  
+## Tips for plotting graphs
+* Easy Ways to Make Your Charts Look More Professional
+  https://towardsdatascience.com/easy-ways-to-make-your-charts-look-more-professional-9b081655eae7
+  
 ## Data Science Books
 * Hands-on Machine Learning with Scikit-Learn, Keras, and TenseFlow
 
