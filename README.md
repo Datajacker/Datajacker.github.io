@@ -51,6 +51,9 @@ https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc
 ### Linear Regression on Boston Housing Dataset
 https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
 
+### Pneumonia Detection: Pushing the Boundaries of Human Ability with Deep Learning
+https://towardsdatascience.com/pneumonia-detection-pushing-the-boundaries-of-human-ability-with-deep-learning-ce08dbd0dc20
+
 ### Linear Regression using Python
 https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
 ### Six Recommendations for Aspiring Data Scientists
