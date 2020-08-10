@@ -8,7 +8,7 @@ To learn about github, this is the first repository created from the guide.
 
 * Classes, Objects and Packages
 
-* Web Scraping /n
+* [Web Scraping]
   https://towardsdatascience.com/byod-build-your-own-dataset-for-free-67133840dc85
 
 * API’s  /n
