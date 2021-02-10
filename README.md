@@ -40,6 +40,7 @@ To learn about github, this is the first repository created from the guide.
   https://github.com/Datajacker/Datacamp-data-science
   
 ## Data Science links
+### [All about Categorical Variable Encoding](https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02)
 ### How to build a data science project from scratch
 https://medium.com/free-code-camp/how-to-build-a-data-science-project-from-scratch-dc4f096a62a1
 
